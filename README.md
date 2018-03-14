@@ -1,2 +1,2 @@
 # FreeStreamDemo
-FreeStream的简单使用，播放网络音频
+FreeStream播放网络音频
